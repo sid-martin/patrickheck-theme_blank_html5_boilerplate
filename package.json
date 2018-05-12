@@ -1,0 +1,19 @@
+{
+  "name": "patrickheck-theme_blank_html5_boilerplate",
+  "version": "1.0.0",
+  "description": "Blank HTML5 Boilerplate\r =============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid-martin/patrickheck-theme_blank_html5_boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sid-martin/patrickheck-theme_blank_html5_boilerplate/issues"
+  },
+  "homepage": "https://github.com/sid-martin/patrickheck-theme_blank_html5_boilerplate#readme"
+}
