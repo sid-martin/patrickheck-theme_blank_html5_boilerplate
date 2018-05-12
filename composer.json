@@ -1,0 +1,12 @@
+{
+    "name": "sid-martin/patrickheck-theme_blank_html5_boilerplate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sid-martin",
+            "email": "36123221+sid-martin@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
